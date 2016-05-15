@@ -9,5 +9,3 @@ console.log('p2: ' + p2.toString());
 p1.setName('Carlos Eduardo Cirilo');
 p1.setEmail('ducirilo@gmail.com');
 console.log('p1 modified: ' + p1.toString());
-
-
